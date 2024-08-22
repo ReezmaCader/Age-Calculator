@@ -54,7 +54,7 @@
     color: #333;
     cursor: pointer;
 }
-.input-box input ::-webkit-calendar-picker-indicator{
+.input-box input::-webkit-calendar-picker-indicator{
     top: 0;
     left: 0;
     right: 0;
